@@ -1,0 +1,10 @@
+name: ToolOfIdeas
+version: '1.0.0'
+main: me.eventually.toolOfIdeas.ToolOfIdeas
+api-version: '1.21'
+load: STARTUP
+authors: [ Eventually ]
+commands:
+  toi:
+    description: Tool of Ideas main command
+    usage: /toi <give|version>
